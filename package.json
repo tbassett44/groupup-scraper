@@ -1,0 +1,23 @@
+{
+  "name": "groupup-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for GroupUp",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('hello!')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbassett44/groupup-scraper.git"
+  },
+  "keywords": [
+    "web",
+    "scrape"
+  ],
+  "author": "fractal_equilibrium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbassett44/groupup-scraper/issues"
+  },
+  "homepage": "https://github.com/tbassett44/groupup-scraper#readme"
+}
